@@ -1,0 +1,41 @@
+#titulo {color:green;
+        width:1440px;
+        height:60px;
+        background: #c4c4c4;
+        text-align: center;
+        text-transform: uppercase;
+        }
+body{
+    font-family:'Times New Roman', Times, serif;
+}
+header{
+    width:1440px;
+    height:188.19px;
+    background: #E6E6E6 
+}
+h3{
+    color: #0ba14ff8;
+    background: #bdbdba;
+    Text-transform: uppercase;
+    width:1440px;
+    height:60px;
+    text-align:center;
+    font-weight: bold
+    }
+    .text-decoration1{
+        list-style-type: none;
+        font-weight: bold;
+        font-style: italic;
+    }
+    .text-decoration2{
+        font-weight: bold;
+        }
+    footer{
+    text-align:center;
+    background: #bdbdba;
+    width:1440px;
+    height: 40px;
+    color: green;
+    }
+    
+    
